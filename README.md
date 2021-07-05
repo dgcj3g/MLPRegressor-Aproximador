@@ -1,5 +1,5 @@
 # MLPRegressor-Aproximador
-A multilayer perceptron Regressor (MLPRegressor) from sklearn to aproximate non linear funtions f(x) and f(x,y) on phyton.
+This phyton code uses a multilayer perceptron Regressor (MLPRegressor) from sklearn to approximate non-linear functions f(x) and f(x,y).
 
 ## Usaremos un perceptrón multicapa (MLP) para aproximar funciones no lineales f(x) y f(x,y) usando la libreria sklearn.
  
